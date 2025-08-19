@@ -13,6 +13,6 @@ Omics_analysis_Fujita2025.ipynb can be opened in Google Colaboratory, where they
 
 If you use this repository, please cite the following article:
 
-**CITE AS:**
-eLife 2025;13:RP99572
-DOI: https://doi.org/10.7554/eLife.99572.3
+**CITE AS:**  
+eLife 2025;13:RP99572  
+DOI: [https://doi.org/10.7554/eLife.99572.3](https://doi.org/10.7554/eLife.99572.3)  
