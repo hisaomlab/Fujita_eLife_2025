@@ -18,7 +18,9 @@ DOI: [https://doi.org/10.7554/eLife.99572.3](https://doi.org/10.7554/eLife.99572
   Data for figure generation (graphs) and raw gel images.  
 
 - **Omics_analysis/**  
-  Datasets and analysis scripts for the omics analyses (RNA-seq and proteome).  
+  This folder contains the datasets and scripts required for the RNA-seq and proteome analyses.
+  - RNA-seq analysis: Related to the graphs presented in Figure 3 and its figure supplements.
+  - Proteome analysis: Related to the graphs presented in Figure 4 and its figure supplements.
 
 ## Usage
 The scripts (including `.ipynb` notebooks) can be opened and executed in **Google Colaboratory** to reproduce the figures and analyses presented in the paper.  
