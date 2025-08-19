@@ -8,7 +8,11 @@ DOI: [https://doi.org/10.7554/eLife.99572.3](https://doi.org/10.7554/eLife.99572
 
 ## Contents
 - **Code/**  
-  Analysis scripts used in the study.  
+  This folder contains the scripts used for the image analyses performed in the paper, including:
+  - Cell size measurements
+  - Cell axis ratio calculations
+  - Expression analysis of Nsr1 and Rip1
+
 
 - **Raw_data/**  
   Data for figure generation (graphs) and raw gel images.  
