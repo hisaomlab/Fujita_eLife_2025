@@ -8,7 +8,7 @@ Proteome analysis: Related to the graphs presented in Figure 4 and its figure su
 
 Usage
 
-The .ipynb file can be opened in Google Colaboratory, where they access the corresponding folders and reproduce the figures.
+Omics_analysis_Fujita2025.ipynb can be opened in Google Colaboratory, where they access the corresponding folders and reproduce the figures.
 
 Citation
 
