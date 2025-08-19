@@ -14,17 +14,14 @@ DOI: [https://doi.org/10.7554/eLife.99572.3](https://doi.org/10.7554/eLife.99572
   - Expression analysis of Nsr1 and Rip1
 
 - **Raw_data/**  
-  Data for figure generation (graphs) and raw gel images.
-  - **RNA-seq datasets** used for the analyses  
-  - **Proteome datasets** used for the analyses  
-  - **Data for figure generation** (graphs shown in the paper)  
-  - **Raw gel data** corresponding to each figure  
+  Data for figure generation (graphs) and raw gel images. including:
+  - RNA-seq datasets used for the analyses  
+  - Proteome datasets used for the analyses  
+  - Data for figure generation (graphs shown in the paper)  
+  - Raw gel data corresponding to each figure  
  
-
 - **Omics_analysis/**  
-  Datasets and scripts required for the RNA-seq and proteome analyses.
-  - RNA-seq analysis: Related to the graphs presented in Figure 3 and its figure supplements.
-  - Proteome analysis: Related to the graphs presented in Figure 4 and its figure supplements.
+  Datasets and scripts required for the RNA-seq (Figure 3 and its figure supplements) and proteome analyses (Figure 4 and its figure supplements).
 
 ## Usage
 The scripts (including `.ipynb` notebooks) can be opened and executed in **Google Colaboratory** to reproduce the figures and analyses presented in the paper.  
