@@ -8,17 +8,16 @@ DOI: [https://doi.org/10.7554/eLife.99572.3](https://doi.org/10.7554/eLife.99572
 
 ## Contents
 - **Code/**  
-  This folder contains the scripts used for the image analyses performed in the paper, including:
+  Scripts used for the image analyses performed in the paper, including:
   - Cell size measurements
   - Cell axis ratio calculations
   - Expression analysis of Nsr1 and Rip1
-
 
 - **Raw_data/**  
   Data for figure generation (graphs) and raw gel images.  
 
 - **Omics_analysis/**  
-  This folder contains the datasets and scripts required for the RNA-seq and proteome analyses.
+  Datasets and scripts required for the RNA-seq and proteome analyses.
   - RNA-seq analysis: Related to the graphs presented in Figure 3 and its figure supplements.
   - Proteome analysis: Related to the graphs presented in Figure 4 and its figure supplements.
 
