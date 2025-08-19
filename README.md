@@ -28,3 +28,7 @@ The scripts (including `.ipynb` notebooks) can be opened and executed in **Googl
 
 ## Citation
 If you use this repository, please cite the article above.  
+
+## License
+This repository is distributed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
